@@ -24,19 +24,6 @@ A real-time cryptocurrency dashboard built using **Elixir**, **Phoenix LiveView*
 
 ---
 
-## 🧪 Development
-
-To run locally:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/cryptoboard.git
-cd cryptoboard
-mix deps.get
-cd assets && npm install && cd ..
-mix phx.server
-
----
-
 ## 🗂️ Current Status
 
 | Feature                     | Status         |
@@ -50,7 +37,6 @@ mix phx.server
 | Responsive layout           | ✅ Complete     |
 | Unit testing                | ⏳ Planned      |
 | Deployment                  | ⏳ Planned      |
-
 
 ---
 
